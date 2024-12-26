@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "testng-1.0.dtd">
+<suite name="PetStore">
+	<listeners>
+		<listener class-name="api.utilities.ExtentReportManager" />
+	</listeners>
+	<test thread-count="5" name="UsersModule">
+		<classes>
+			<class name="api.test.UserTests" />
+			<!--class name="api.test.DdTest"/-->
+		</classes>
+	</test> <!--
+	UsersModule -->
+</suite> <!--
+PetStore -->
