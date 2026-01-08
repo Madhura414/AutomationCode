@@ -17,7 +17,10 @@ import static org.hamcrest.Matchers.*;
 public class StoreEndPoints {
 
 	public static Response getStoreInventory() {
-		Response res = given().when().get(Routes.get_store_inventory);
+		Response res = 
+				given()
+				.when()
+				.get(Routes.get_store_inventory);
 
 		return res;
 	}

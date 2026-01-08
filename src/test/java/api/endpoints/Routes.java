@@ -10,7 +10,8 @@ package api.endpoints;
 
 public class Routes {
 
-	
+	//we can use public accesss any where in the package 
+	// we can use static acess any where in the class
 	public static String base_url = "https://petstore.swagger.io/v2";
 	
 	//end points for USER module

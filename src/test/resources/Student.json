@@ -1,0 +1,113 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 20,
+      "major": "Computer Science"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "age": 22,
+      "major": "Mathematics"
+    },
+    {
+      "id": "3",
+      "name": "Michael Brown",
+      "age": 21,
+      "major": "Physics"
+    },
+    {
+      "id": "4053"
+    },
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 20,
+      "major": "Computer Science"
+    },
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 20,
+      "major": "Computer Science"
+    },
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 20,
+      "major": "Computer Science"
+    },
+    {
+      "id": "4f7a",
+      "major": "science science",
+      "name": "smith",
+      "age": "12"
+    },
+    {
+      "id": "7c56",
+      "major": "science science",
+      "name": "simth",
+      "age": "12"
+    },
+    {
+      "id": "45ae",
+      "major": "QA",
+      "name": "madhura",
+      "age": "56"
+    },
+    {
+      "id": "3c77",
+      "major": "QA",
+      "name": "madhura",
+      "age": "56"
+    },
+    {
+      "id": "96d0",
+      "sname": "bruce",
+      "grade": "c"
+    },
+    {
+      "id": "6590",
+      "sname": "bruce",
+      "grade": "c"
+    },
+    {
+      "id": "29e2",
+      "name": "Madhura",
+      "age": "56",
+      "major": null
+    },
+    {
+      "id": "a268",
+      "name": "Madhura",
+      "age": "56",
+      "major": "Science"
+    },
+    {
+      "id": "4222",
+      "name": "Madhura",
+      "age": "56",
+      "major": "Science"
+    },
+    {
+      "id": "d7e5",
+      "name": "Madhura",
+      "age": "56",
+      "major": "Science"
+    },
+    {
+      "id": "ed51",
+      "name": "Madhura",
+      "age": "56",
+      "major": "Science"
+    },
+    {
+      "id": "7c76",
+      "name": "Madhura",
+      "age": "56",
+      "major": "Science"
+    }
+  ]
+}
